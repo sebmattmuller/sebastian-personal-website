@@ -4,9 +4,13 @@
 
 Website based on the Dimension site template, designed by HTML5 UP and created using Gatsby.js.
 
+## Tech
+
+Gatsby.js, React.js, JavaScript, SASS, Firebase
+
 ## Preview
 
-https://mattmuller.ch/ - deployed on FireBase
+https://mattmuller.ch/ - deployed on Firebase
 
 ## Installation
 
